@@ -1,7 +1,7 @@
 # Thomas_Data_Portfolio
 A portfolio of my work in data
 
-## [Myanmar data exploration.](https://github.com/Doordiver/Myanmar_Project)
+## [Myanmar data exploration](https://github.com/Doordiver/Myanmar_Project)
 
 A Personal project looking into the effects of the Myanmar civil war.
 
