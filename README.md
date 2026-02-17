@@ -1,5 +1,7 @@
 # Thomas_Data_Portfolio
-A portfolio of my work in data
+Hi, I'm Thomas Barkshire, Aspiring Data Analyst taking my first steps into the world of data.
+
+This is a space I'm using to show off the skills I have been developing, and how I have been using them.
 
 ## [Myanmar data exploration](https://github.com/Doordiver/Myanmar_Project)
 
