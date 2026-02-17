@@ -19,17 +19,17 @@ A project as part of a boot camp, working with a table in Excel
 
 There was a focus on:
 - Maintaining data standards, and keeping rows intact.
-- Simple Conditional Formatting
-- Ordering by Columns, to display data by a columns value
+- Simple Conditional Formatting.
+- Ordering by Columns, to display data by a columns value.
 
 ## :airplane: [SQL skills practise](https://github.com/Doordiver/SQL_Skills_Project)
 
 Another project as part of a boot camp, working with queries on 2 related tables, country and city.
 
 This project was in SQL using:
-- Aggregation using count
+- Aggregation using count.
 - WHERE
 - GROUP BY
 - ORDER BY
 - JOIN
-- Subqueries
+- Subqueries.
