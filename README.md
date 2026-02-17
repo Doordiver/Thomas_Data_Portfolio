@@ -11,7 +11,7 @@ This project was created using Tableau.
 - Use of different graph types.
 - Focus on visual storytelling, to get a narative across.
 - Multiple different data sources and filters used.
-- Finallised into a dashboard, with KPIs highlights and a conclusion of all findings.
+- Finallised into a dashboard, with KPIs, highlights and a conclusion of all findings.
 
 ## :bar_chart: [Excel skills practise](https://github.com/Doordiver/Excel_Skills_Project)
 
